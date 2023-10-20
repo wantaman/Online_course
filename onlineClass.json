@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Intructor": "David",
+      "title": "HTML Tutorial for Beginners: HTML Crash Course",
+      "Date": "Feburary 15, 2019",
+      "Country": "New Zealand",
+      "language": "English",
+      "level": "Beginners",
+      "lecturer": 1,
+      "duration": "2h 50min",
+      "pic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8JUePG_oPaBQisWb7jAVpuBsOeLi1nEgZQ&usqp=CAU",
+      "video":"https://youtu.be/qz0aGYrrlhU?si=xcYclb2QhPqqbYYz",
+      "description": "HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on. "
+    },
+    {
+      "id": 2,
+      "Intructor": "Thomas",
+      "title": "Learn HTML Advanced",
+      "Date": "March 25, 2020",
+      "Country": "New Zealand",
+      "language": "English",
+      "level": "Advance",
+      "lecturer": 1,
+      "duration": "50min",
+      "pic" : "https://www.examturf.com/eqtkhtabd/wp-content/uploads/2021/02/HTML-Commands.jpg",
+      "video":"https://youtu.be/GE2qnXC8UMg?si=_Y2Ecj49SuA0IU1C",
+      "description": "Creating a comprehensive script about advanced HTML techniques and best practices can be quite extensive, so I'll provide you with an outline of the topics you might want to cover in your script. You can then expand upon each section as needed. "
+    },
+    {
+      "id": 3,
+      "Intructor": "John",
+      "title": "Introduction to CSS | CSS Tutorial for Beginners",
+      "Date": "March 10, 2020",
+      "Country": "India",
+      "language": "English",
+      "level": "Beginners",
+      "lecturer": 1,
+      "duration": "5h 10min",
+      "pic" : "https://uxcel-secured.imgix.net/assets/open-graph/lesson-open-graph-template-v4.jpg?mark64=aHR0cHM6Ly9pbWcudXhjZWwuY29tL2xlc3NvbnMvY3NzLWJhc2ljcy0xNjg2NjUxODQxOTA5LTJ4LnN2Zw&mark-w=348&mark-h=348&mark-x=772&mark-y=120&w=1200&h=630&blend64=aHR0cHM6Ly91eGNlbC1zZWN1cmVkLmltZ2l4Lm5ldC9hc3NldHMvb3Blbi1ncmFwaC9jb21tb24vdGV4dC1iYWNrZ3JvdW5kLXRlbXBsYXRlLmpwZz9tYXJrNjQ9YUhSMGNITTZMeTloYzNObGRITXVhVzFuYVhndWJtVjBMMzUwWlhoMFAzUjRkRFkwUFZFeFRsUkpSVXBvWXpKc2FtTjNKblI0ZEdOc2NqMUdPRVJDTkRZbWR6MDJNamdtYUQwME1DWjBlSFJ6YVhwbFBUTXdKblI0ZEhCaFpEMHdKblI0ZEMxbWIyNTBQVlJoYUc5dFlTeENiMnhrJm1hcmsteD0wJm1hcmsteT0wJnc9NjI4Jmg9ODQmZml0PWNyb3Amcz04NjA0YjE3YmMyYjliMWFhMDI0Y2FiNDI0MTc5OTk0Yg&blend-y=364&blend-x=80&blend-mode=normal&s=44624b2874b65935c770e98c768a9b7d",
+      "video":"https://youtu.be/uhza_QbzR7o?si=YKO2Rt7xRTZWtImO",
+      "description": "Cascading Style Sheets (CSS) is a fundamental technology in web development, allowing you to control the design and layout of your web pages. It works by targeting HTML elements and defining their appearance using rules consisting of selectors, properties, and values. With CSS, you can change colors, fonts, create responsive layouts, set backgrounds, add animations, and much more. For beginners, it's essential to grasp the basics of CSS syntax, selectors, and the box model, which defines an element's size and spacing. As you progress, you can explore advanced topics like responsive web design and CSS best practices. CSS is a powerful tool for making your web content visually appealing and user-friendly."
+    },
+    {
+      "id": 4,
+      "Intructor": "Momo",
+      "title": "Advanced CSS Tutorial — Level Up Your CSS Skills",
+      "Date": "January 20, 2020",
+      "Country": "India",
+      "language": "India",
+      "level": "Advance",
+      "lecturer": 1,
+      "duration": "3h 15min",
+      "pic" : "https://i.ytimg.com/vi/zg_mmC8THqM/maxresdefault.jpg",
+      "video":"https://youtu.be/8MCjAktqZaM?si=JX5tMnpn1oTujtIA",
+      "description": "Advanced CSS techniques are essential for web developers looking to take their design and layout skills to the next level. In this script, we explore a range of advanced topics, including the use of CSS preprocessors like SASS and LESS for cleaner and more maintainable code. We delve into CSS Grid and Flexbox for creating complex and responsive layouts, enhancing web design possibilities. Transformations and animations are covered, allowing you to create visually engaging and interactive web experiences. Custom properties, or CSS variables, provide the power of reusability and theming."
+    },
+    {
+      "id": 5,
+      "Intructor": "Mona",
+      "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+      "Date": "September 10, 2021",
+      "Country": "United States",
+      "language": "English",
+      "level": "Beginners",
+      "lecturer": 1,
+      "duration": "4h 12min",
+      "pic" : "https://i.ytimg.com/vi/W6NZfCO5SIk/sddefault.jpg",
+      "video":"https://youtu.be/W6NZfCO5SIk?si=5JlBSuCYUfd0F8Iu",
+      "description": "Instead of covering all the theories and concepts of JavaScript, I'll be teaching you only the most important building blocks of the language. We'll cover things like variables, data types, functions, objects, arrays, and classes. You'll also learn how to mix them all to build a small but solid program."
+    },
+    {
+      "id": 6,
+      "Intructor": "Jokor",
+      "title": "Advanced JavaScript Crash Course",
+      "Date": "Feb 15, 2021",
+      "Country": "United States",
+      "language": "English",
+      "level": "Advance",
+      "lecturer": 1,
+      "duration": "1h 30min",
+      "pic" : "https://www.sevenmentor.com/wp-content/uploads/2023/02/Untitled-design-8.jpg",
+      "video":"https://youtu.be/R9I85RhI7Cg?si=RmOVBZXmUsh3hhlA",
+      "description": "Advanced JavaScript techniques open a world of possibilities for web developers seeking to create dynamic, interactive, and performant web applications. In this script, we venture beyond the basics, exploring concepts like closures, promises, async/await, and the event loop, enabling asynchronous and efficient code execution. We dive into object-oriented programming with JavaScript, showcasing techniques like prototypal inheritance and design patterns, empowering developers to create scalable and maintainable code."
+    }
+  ]
+  
+}
